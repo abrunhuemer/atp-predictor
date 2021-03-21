@@ -1,2 +1,4 @@
 .DS_Store
 atp-predictor/
+/Data/raw/
+.ipynb_checkpoints
